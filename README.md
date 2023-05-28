@@ -1,9 +1,9 @@
 # Praktikum 8: Framework Lanjutan (CRUD)
 
 ```bash
-Nama    : Nurul Najwa Sabilla
-Kelas   : TI.21.A.3
-Nim     : 312110451
+Nama    : Rima Puji Lestari
+Kelas   : TI.21.A3
+Nim     : 312110517
 ```
 
 ## output
