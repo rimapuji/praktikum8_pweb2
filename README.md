@@ -14,35 +14,36 @@ Output CRUD pada Praktikum 8 - Codeigniter seperti berikut ini:
 
 ### Menu User
 
-1. Tentang
+1. Artikel
 
-![about](images/about.png)
+![1 artikel](https://github.com/rimapuji/praktikum8_pweb2/assets/118242692/5aa45db6-3052-48a2-8ba1-8d7760fe6c24)
 
-2. Artikel
+2. Detail Artikel
 
-![article](images/aartikel.png)
+![2 detail artikel](https://github.com/rimapuji/praktikum8_pweb2/assets/118242692/04b12799-4271-458a-a2ea-1b0b1237b4de)
 
-3. Detail 
+3. About
 
-![detail](images/artikel-2.png)
+![3 about](https://github.com/rimapuji/praktikum8_pweb2/assets/118242692/ca650281-8caa-4610-9c65-51bab704cb0a)
+
+4. Contact
+
+![4 kontak](https://github.com/rimapuji/praktikum8_pweb2/assets/118242692/aec26e45-6cba-4130-bf23-f2076e73f2a2)
 
 ### Menu Admin
 
-1. Artikel-Admin
+1. Admin Artikel
 
-![article admin](images/admin-artikel.png)
+![5 admin artikel](https://github.com/rimapuji/praktikum8_pweb2/assets/118242692/9740407f-d7fa-4778-808b-3a6d4ed63b3b)
 
 2. Tambah Artikel
 
-![add article](images/add-artikel.png)
+![6 add](https://github.com/rimapuji/praktikum8_pweb2/assets/118242692/2875e20a-195e-4aaf-9457-daa2f060b7d0)
 
 3. Ubah Artikel
 
-![update article](images/ubah-artikel.png)
+![7 edit](https://github.com/rimapuji/praktikum8_pweb2/assets/118242692/7f7f866f-3b83-4597-8207-40bf06720285)
 
 4. Hapus Artikel
 
-![Delete Article](images/hapus-data.png)
-
-
-Terimkasih(●'◡'●)
+![8 hapus](https://github.com/rimapuji/praktikum8_pweb2/assets/118242692/e2eb91d8-b554-4269-a925-44f90e890479)
